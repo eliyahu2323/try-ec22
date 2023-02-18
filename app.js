@@ -10,4 +10,4 @@ app.listen(8080, () => {
   console.log(`App running on port ${8080}...`);
 });
 
-app.get("/", (req, res) => res.send({ message: "Hi My Sister" }));
+app.get("/", (req, res) => res.send({ message: "Good luck tomorrow in your exam😎😎" }));
